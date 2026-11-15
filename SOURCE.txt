@@ -1,0 +1,4 @@
+source: https://github.com/stackgl/glsl-parser
+commit: 2fd07f669ce50bfdf09dbfb9b42d290dd5d1028c
+license: MIT
+imported: 2026-11-15
