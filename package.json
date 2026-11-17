@@ -13,7 +13,7 @@
     "tape": "^3.0.2"
   },
   "scripts": {
-    "test": "node test/index.js | tap-spec"
+    "test": "node test/index.js | tap-spec && node test/preprocessor.js | tap-spec"
   },
   "repository": {
     "type": "git",
